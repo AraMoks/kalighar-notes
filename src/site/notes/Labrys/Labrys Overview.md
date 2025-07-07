@@ -1,0 +1,61 @@
+---
+{"dg-publish":true,"permalink":"/labrys/labrys-overview/"}
+---
+
+
+So, do you understand our situation now? How we've come to be, and how we earned this title of "godslayers?" You do? Awesome! Now that our history lesson is over, it's time to learn a bit about the place you're staying: Labrys. Labrys is the de facto capital of Kalighar. 
+
+Labrys is the most important settlement in the Outlands—a name we use for all the regions within Labrys's immediate reach. It's the new bed of civilization in the New Age, built by the survivors of the Great Wars in defiance to the Compagnia demigods, who lurk in the wilds tempting mortals to join their cults, all to fuel their ascension. Labrys is quite advanced in artifice, or so I've heard. Due to the disappearance of magic in the Age of Ruin, we had to learn how to make do. However, after its return at the turn of the New Age, we learned how to use it in conjunction with artifice to do wonders. 
+
+The ten warbands that built Labrys acquiesced that her people shouldn't feel the need to pick one side of the whole over the other, but the leaders still wanted to feel as though each warband had claimed a corner of Labrys for themselves. That is how the ten districts came to be. Each warband claimed dominion over a district and contributed to its construction. Then came the factions, remnants of smaller warbands and splinters of the main ones, with their own agendas and ideals. So, instead of warbands, we had factions fighting for the spotlight. We'll get to them later.
+
+So, how's Labrys as a city? Well, I'm glad you asked! I've compiled some information about it as a whole, and we'll review some details about the districts and factions at a later date.
+
+###  ![:manaw:](https://cdn.discordapp.com/emojis/1044628157405347882.webp?size=44) Law
+
+Labrys is light on rules due to its history, but we still maintain some semblance of peacekeeping. And that is thanks to _the Rule of Law_, a magical document that is, in fact, Labrys's constitution. It was written by archangel Laurine Luther, the last angel of the "First Flight" of angels. She led her warband in the shadows, sabotaging the most hateful warbands and the god who plucked her wings. Hers was one of the first warbands to join the rebellion, and for her deeds, she ascended into archangelhood, the first and only of her kind in Kalighar. 
+
+Laurine used her magic to write _the Rule of Law_ as a way to keep the citizens of Labrys and the many factions with it in check. The document, though light in rules, is imbued with hieromancy—law magic. Should someone break the law, Laurine and those under her wings can use _the Rule of Law_ to bind them in radiant light. Her warband dissolved into Saturday Saints Security (or the S.S.S), one of the ten major factions of Labrys who claim dominion over Saturday Island. Saturday's Public Security Department handles most minor cases, such as cheating and theft. They're everywhere in the city, not just on Saturday Island. In contrast, the Special Defense Department handles the most major cases, such as assault and manslaughter. Not all of the angels in Labrys claim allegiance to the S.S.S, but those who do join it as part of the Special Defense Department.
+
+###  ![:manau:|44x44](https://cdn.discordapp.com/emojis/1044628170470592633.webp?size=44) Infrastructure
+
+As previously mentioned, Labrys has ten governmental districts, each with its own quirks. Transit between each district is straightforward, as most districts intersect with one another. Those without a personal vehicle must walk, take a cab, or use one of Labrys' public transportation options, such as the bus or the subway. The bus is comfortable but unreliable, while the subway is the opposite. Most people opt for the subway, as it's the fastest. Due to its construction, every subway line passes by Junkyard Junction, attributing to its sense of constant activity.
+
+Each district has some residential neighborhoods, which consist of several rowhouses constructed in similar shapes but painted in different colors. Up to three families can reside in the same household. Ætherwork facilities located in each district distribute sufficient æther and electricity for the district's residents, with one major exception: the Outlands district, which frequently suffers technical difficulties due to either a lack of maintenance or interference from æther- and electricity-devouring Elementals and Monstrosities.
+
+![wardenlight_1.webp](/img/user/Content/Images/wardenlight_1.webp)![dlarf_1.webp](/img/user/Content/Images/dlarf_1.webp)
+
+###  ![:manab:](https://cdn.discordapp.com/emojis/1044628208349351986.webp?size=44) Threats
+
+Labrys is a monument to mortal resolve, and it is among the best things to come out of the New Age, but it is not a perfect place. Our workers still fight for better rights every day. Some bosses abuse the lightness of the laws to keep their workers toiling on end without fair compensation. Others don't offer safe work environments, which is cause for real concern in certain districts, chief among them being Zener Hazard. Elsewhere, in Carolina Boulevard, the situation is a bit different, as the district's elitism alienates those of poor income, pushing them off their neighborhoods and parks.
+
+Without Kalighus to anchor the faiths in Kalighar, people turned to less "knowable" faiths, that is, cults. Cults became ubiquitous in Kalighar, either to the Compagnia or to inscrutable eldritch entities. One of these cults, the Cult of the Apocryphal Hand, believes in an outer space god who will usher in the Kalighari to "the Age of Enlightenment" and is seen as mostly harmless. The Cult of the Maelstrom, which worships the Maelstrom as a god of destruction hellbent on dismantling civilization as we know it, is less so. On the topic of cults, the Compagnia has managed to get several warbands under their darkened wings. These warbands aren't necessarily allied to one another, but under Compagnia's doctrine, they each consider Labrys their one common enemy. Their members disguise themselves as survivors to enter Labrys, only to sabotage its defenses against their demigods.
+
+###  ![:manar:](https://cdn.discordapp.com/emojis/1044628230809858118.webp?size=44) Entertainment
+
+Competition is Labrys's lifeblood, and we know how to make each competition a one-of-a-kind spectacle worth participating in—or watching! Despite no longer needing to fight against each other for our god's amusement and benefit, we still do, but for our own sake. In addition to the Tournament to End All Tournaments, there are multiple smaller tournaments in Labrys. To enter the End Tournament in its major leagues, a team must possess some reputation, and these small tournaments offer it in spades. Still, people can otherwise join its minor leagues with no reputation whatsoever.
+
+The other major tournament in Labrys is the Ætherfront Grand Prix, a no-brakes death race tournament organized by the Godpunk Gangs, another one of the major factions in Labrys. The Godpunks were once a war band specialized in horse raiding. Their antics evolved with time, and now the Gangs use monstrous vehicles to compete against one another on the open roads of the Outlands. Those with a need for speed can join the Grand Prix alone or with a pit crew. One of the leaders of the Godpunk Gangs, Erica "Erotica" Jones, has recently joined the End Tournament as a way to advertise the Ætherfront Grand Prix.
+
+Media is the last of the three giants of entertainment in Labrys. VTs, an artifact capable of transmitting both image and sound (hence the name "VT"), helped catapult actors and musicians to new heights. Musicians like Jailhouse Janett and the Mosh Pit Fiends dominate the charts, while news anchors like Greyson Greyson keep Labrys informed of the latest news in the world. The real competition isn't for the VT channels but for the audience's attention, as it can all shift with just a single click. Of course, the one constant in all of this is the broadcast of the End Tournament matches. No one misses those. No one.
+
+###  ![:manag:](https://cdn.discordapp.com/emojis/1044628260442615828.webp?size=44) Cuisine
+
+Kalighat cuisine is peculiar, or so I've heard. In the Age of Ruin, resources became scarce, so we had to make do with replacements. Each warband had a ranger who'd hunt monsters for their parts. The parts we didn't use to craft were turned into food. For example, in a classic dish of goat curry, we'd use barometz to replace the goat since those had almost gone extinct. Beatrice Cavaliere, the leader of _Beatrice's Inferno_ on Kings' Row, is a consummate monster hunter and chef. Her faction has existed for about a decade, but it has already become a mainstay in their district.
+
+![clarasinem_2 1.webp|450x276](/img/user/Content/Images/clarasinem_2%201.webp) ![Adrenaline_Jockey_Aetherdrift.webp|450x325](/img/user/Content/Images/Adrenaline_Jockey_Aetherdrift.webp) 
+ ![Poissonnierede_Nouvelles_Yu-Gi-Oh.webp|285x364](/img/user/Content/Images/Poissonnierede_Nouvelles_Yu-Gi-Oh.webp)  ![Patissciel_Couverture_Yu-Gi-Oh.webp|288x368](/img/user/Content/Images/Patissciel_Couverture_Yu-Gi-Oh.webp)
+
+###  ![:manac:](https://cdn.discordapp.com/emojis/1388186847230034062.webp?size=44) The Labsyian Association of Buffers and Sponsors
+
+Since we'll get into the ten districts and factions of Labrys, I suppose I should get over the elephant in the room—LABS, short for "the Labsyian Association of Buffers and Sponsors." What does "Buffers and Sponsors" mean? Well, I'm glad you asked.
+
+50 or so years ago, the wealthiest citizens of Labrys started to capitalize on the End Tournament. These citizens would scout talented fighters and sponsor them in their matches. These fighters fought in their sponsor's stead, often acting as an advertisement for their sponsor's business in exchange for equipment, financial support, and media support. These citizens became the first sponsors. However, after a scandalous case in which Public Security discovered a fight-rigging scheme in the major leagues, the citizens turned against the sponsors overnight. People claimed that the sponsors were ruining the ideals of the End Tournament and that the teams under their sponsorship were sellswords with no souls nor wants of their own, just puppets dancing to their masters' whims. However, some teams responded that sponsors helped them cover expenses—which was something the audience didn't think much of at the time.
+
+To solve the wants of both while maintaining the ideals of the End Tournament, the rules committee decided to fund a faction of their own—LABS, the Labrysian Association of Buffers and Sponsors. The committee permitted the sponsors to advertise their businesses on the Elysian Fields space and to use fighters as a vehicle for advertising. Still, it placed several restrictions on the fighters, chief among them being their limited use to exhibition matches. Though several sponsors were dissatisfied with being limited to exhibition matches, it was either that or no advertisement at all.
+
+Nevertheless, the committee also came to understand that some teams in the major league needed sponsors not just for financial support but also for other aspects of being an End Tournament team. To help those teams, the committee opened a test for sponsors who wanted to act as team managers. Those who passed the test became the buffers, individuals who offered minor financial support (such as equipment maintenance and medical aid) and media support (such as serving as the team's spokesperson) to their chosen End Tournament team. Nowadays, it's rather uncommon for an End Tournament team not to have a buffer in their midst.
+
+LABS is thus the faction most closely related to the Tournament to End All Tournaments and, therefore, one of the major factions in Labrys, despite not being a truly unified front and not being directly related to the others.
+
+  ![Stubb_Limbus_Company.webp|208x439](/img/user/Content/Images/Stubb_Limbus_Company.webp) ![Hermann_Limbus_Company.webp|166x449](/img/user/Content/Images/Hermann_Limbus_Company.webp)
