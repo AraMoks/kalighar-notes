@@ -9,7 +9,11 @@ Like a child who wants to become an adult faster, the people of Labrys built thi
 
 Welcome to Avery Lane, the suburban district of Labrys.
 
+![kevin_gnutzmans_1.webp](/img/user/Content/Images/kevin_gnutzmans_1.webp)
+
 Avery Lane is a major residential district in the city of Labrys. In addition to an endless sea of houses, Avery Lane has several major buildings known as _the Stairways to Heaven_. These haloed, alabaster skyscrapers exist on the edges of the district and are the residence of the angels, who came to Kalighar after Kalighus's fall. The halos spin like the blades of a windmill, causing subtle tailwinds that help the angels and some other species traverse the district and reach downtown Labrys swiftly. The houses on Avery Lane are distinctly detached and often include a backyard or front yard. People here tend to form tight-knit communities, helping one another through thick and thin, all the while gossiping about everyone else's lives.
+
+![Maplecrest_Skullgirls.webp](/img/user/Content/Images/Maplecrest_Skullgirls.webp)
 
 In the summertime, the district truly comes to life. As schools close for vacation, children come out of their homes very early to play in the backyard or with their friends. Teenagers, on the other hand, disappear for hours on end, either going to the mall at some district, to the stadiums for some rough fun, or to their special place in Labrys, a place that might not be special for anyone but it means the world to them. The sounds of afternoon chatter with chardonnay, of bicycles and skateboards, of the ice cream truck approaching are what make Avery Lane such a special place in a city like Labrys.
 
@@ -21,4 +25,4 @@ To make it simple, the Knights of the New Age defend Labrys much like a knight w
 
 Out of all the major factions, the Knights of the New Age relate the most to the guards of Saturday Saints Security, but it isn't reciprocated. The Knights value the guards' efforts in keeping Labrys safe, but the guards see the Knights as delusional, idiotic, self-righteous vigilantes. The Godpunk Gangs also dislike the Knights of the New Age exclusively on the basis that the Knights keep appearing on their turf to do good. The Gangs feel as though this "robs their thunder," but the Knights swear that none of them has ever conducted "theft of thunder, lightning, or other element of nature." Despite their differences, the Dreamscapers of Oneiros Dreamscapers seem fond of the Knights as a counter-balance to Saturday's enforcement of the law. Sometimes, Dreamscapers enter the minds of Knights at night and fill them with thoughts of cavalry charges on motorcycles, of slaying monsters with gunblades, and of neighbors who seem ok on the outside but who could use a Knight's hand—or blade—on the inside.
 
-![kevin_gnutzmans_1.webp](/img/user/Content/Images/kevin_gnutzmans_1.webp)![Maplecrest_Skullgirls.webp](/img/user/Content/Images/Maplecrest_Skullgirls.webp)![Lettou_Arknights.webp](/img/user/Content/Images/Lettou_Arknights.webp)![hu-ya_3.webp](/img/user/Content/Images/hu-ya_3.webp)
+![Lettou_Arknights.webp](/img/user/Content/Images/Lettou_Arknights.webp)![hu-ya_3.webp](/img/user/Content/Images/hu-ya_3.webp)

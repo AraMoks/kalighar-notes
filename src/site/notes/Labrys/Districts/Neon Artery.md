@@ -9,9 +9,13 @@ Imagine this: Labrys, 001 NA, the Elysian Fields, welcoming a thousand survivors
 
 Welcome to Neon Artery, the industrial district of Labrys.
 
+![paigu_1.webp](/img/user/Content/Images/paigu_1.webp)
+
 Neon Artery has a unique layout among the districts of Labrys. It exists in the "gaps" between each district, bleeding into the space of others like a piece of graffiti, competing for space among others on a wall. As such, it has no simple classification. It is what it is, a collection of roads and "gaps" that together form a whole. The district became the main "road" of Labrys, through which people come to Labrys, its ten districts, and the Elysian Fields. The additional infrastructural work on the Artery also helped with "transit," both the transit of people, goods, and information—the ætherworks cables, buses, cabs, rails, mailmen, and the VT signal transmission, which now reaches over 75% of the Outlands, thank fates. So, if you ever wonder how certain things ever end up in the most unusual places in the Outlands, it's probably because an Artery resident got it there.
 
 With such diverse functions, it's no wonder the Artery became such a point of contention in Labrys. As I've mentioned, Neon Artery bleeds into other districts, and thus, the residents of these "bleeds" must contend with the adversities of the different districts. For instance, the residents of the Artery near Avery Lane must construct their houses according to the district's strict HOA guidelines. Residents on the Artery near Zener Hazard must not ride after dark, for UFOS could abduct them and/or replace their vehicles with wild mimics.
+
+![paigu_2.webp](/img/user/Content/Images/paigu_2.webp)
 
 ### Godpunk Gangs
 
@@ -21,4 +25,4 @@ That warband became the Godpunk Gangs, a ragtag band of racing gangs that race t
 
 The Godpunk Gangs respect the crew of the _Mavromichalis 190_ as brothers in the path of trailblazing. The Godpunks trailblaze the city, while the _Mavromichalis 190_ trailblazes the Outlands. Some of the equipment on the _god-warmachina_ is, in fact, part of resource exchanges between both factions. The crew wants to find some time to participate in the Ætherfront Grand Prix to show the Godpunks some support on their tournament. Saturday Saints Security reserves its harshest punishments for the Godpunks, whose lack of restraint and opinion that "speed limits don't exist" endanger all. The Godpunks think the guards need to lighten up, and that no one (who matters) has ever suffered a (lethal) accident as a result of their racing (that S.S.S. knows). The Sigilswarm Market looks up to the Godpunks as a faction that helped their district come into being in the past. Both factions maintain amicable relationships despite their different agendas. They're also both connected to the Mavromichalis 190, though again, through other reasons. The Sigilswarm sponsors the Grand Prix and supplies the Godpunks with vehicle parts, while the Godpunks help them watch over the tunnels of Junkyard Junction.
 
-![paigu_2.webp](/img/user/Content/Images/paigu_2.webp)![paigu_1.webp](/img/user/Content/Images/paigu_1.webp)![Unused_Concept_Art_League_of_Legends_1.webp](/img/user/Content/Images/Unused_Concept_Art_League_of_Legends_1.webp)![Gold_Pride_-_Leon_Yu-Gi-Oh.webp](/img/user/Content/Images/Gold_Pride_-_Leon_Yu-Gi-Oh.webp)
+![Unused_Concept_Art_League_of_Legends_1.webp](/img/user/Content/Images/Unused_Concept_Art_League_of_Legends_1.webp)![Gold_Pride_-_Leon_Yu-Gi-Oh.webp](/img/user/Content/Images/Gold_Pride_-_Leon_Yu-Gi-Oh.webp)

@@ -8,9 +8,13 @@ A long time ago, there was a demon who mocked Kalighus. He said that Kalighus's 
 
 Welcome to Saturday Island, the penitentiary district of Labrys.
 
+![G.D_Bridge_JoJos_Bizarre_Adventure_Stone_Ocean.webp|326x449](/img/user/Content/Images/G.D_Bridge_JoJos_Bizarre_Adventure_Stone_Ocean.webp)
+
 Saturday Island is a unique district—its foundation, however damned it is, already existed before Labrys. Much of the structure of the dungeon on the Island was reutilized in its transformation into a district. However, its residents—its former inmates—didn't want to live in it as it was. So, to reclaim the Island for themselves, the inmates made the walls bleed colors, and the once-silent halls howled with metal and rock. Bit by bit, the austerity of Saturday Island became the extremity it is today. Those who had known nothing but the dungeon since birth remained in it, as did those who wanted nothing but the monotonous continuance of life, now without the hateful hands of the Compagnia but instead the watchful eyes of Saturday. In this dungeon, there are no shackles but the weight of an inmate's sin. Climbing back to the surface or sinking into the dungeon's depths is a choice held in one's hands.
 
 Saturday Island has two major neighborhoods, the Mictlan Quarter and the Tartarus Quarter, plus the headquarters of Saturday Saints Security, which is the gate to the deepest dungeon of the Island. Mictlan Quarter is a low-income neighborhood known for its collection of graffiti art depicting monstrous beings and eldritch entities. Sometimes, these depictions come to life and entice mortals into signing pacts—a method these entities found to communicate with potential warlocks despite the guards' surveillance. Tartarus Quarter, on the other hand, is a nicer neighborhood but one with a constant rush of outsiders, as it serves as the gate into the district. Inmates with light sentences can serve their time on the surface levels of the dungeon, working their time off doing community service. Some of them can even work at a regular job in other neighborhoods, though under the strict scrutiny of a Saturday agent.
+
+![G.D._Hells_Gate_JoJos_Bizarre_Adventure_Stone_Ocean.webp|370x279](/img/user/Content/Images/G.D._Hells_Gate_JoJos_Bizarre_Adventure_Stone_Ocean.webp)
 
 ### Saturday Saints Security
 
@@ -22,4 +26,4 @@ Saturday Saints Security maintains a close relationship with the Gearheart Insti
 
 <iframe width="500" height="281" src="https://www.youtube.com/embed/9l5VL-JM_Ws" title="JoJo&#39;s Bizarre Adventure: Stone Ocean - OP || Opening 1 v2 [HD]" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
-![G.D._Hells_Gate_JoJos_Bizarre_Adventure_Stone_Ocean.webp|370x279](/img/user/Content/Images/G.D._Hells_Gate_JoJos_Bizarre_Adventure_Stone_Ocean.webp)![G.D_Bridge_JoJos_Bizarre_Adventure_Stone_Ocean.webp|326x449](/img/user/Content/Images/G.D_Bridge_JoJos_Bizarre_Adventure_Stone_Ocean.webp)![Rindo_Kanade_The_World_Ends_With_You.webp|174x481](/img/user/Content/Images/Rindo_Kanade_The_World_Ends_With_You.webp)![Ezra_Limbus_Company.webp|246x475](/img/user/Content/Images/Ezra_Limbus_Company.webp)
+![Rindo_Kanade_The_World_Ends_With_You.webp|174x481](/img/user/Content/Images/Rindo_Kanade_The_World_Ends_With_You.webp)![Ezra_Limbus_Company.webp|246x475](/img/user/Content/Images/Ezra_Limbus_Company.webp)

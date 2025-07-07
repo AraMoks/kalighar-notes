@@ -19,11 +19,13 @@ Laurine used her magic to write _the Rule of Law_ as a way to keep the citizens 
 
 ###  ![:manau:|44x44](https://cdn.discordapp.com/emojis/1044628170470592633.webp?size=44) Infrastructure
 
+![wardenlight_1.webp](/img/user/Content/Images/wardenlight_1.webp)
+
 As previously mentioned, Labrys has ten governmental districts, each with its own quirks. Transit between each district is straightforward, as most districts intersect with one another. Those without a personal vehicle must walk, take a cab, or use one of Labrys' public transportation options, such as the bus or the subway. The bus is comfortable but unreliable, while the subway is the opposite. Most people opt for the subway, as it's the fastest. Due to its construction, every subway line passes by Junkyard Junction, attributing to its sense of constant activity.
 
 Each district has some residential neighborhoods, which consist of several rowhouses constructed in similar shapes but painted in different colors. Up to three families can reside in the same household. Ætherwork facilities located in each district distribute sufficient æther and electricity for the district's residents, with one major exception: the Outlands district, which frequently suffers technical difficulties due to either a lack of maintenance or interference from æther- and electricity-devouring Elementals and Monstrosities.
 
-![wardenlight_1.webp](/img/user/Content/Images/wardenlight_1.webp)![dlarf_1.webp](/img/user/Content/Images/dlarf_1.webp)
+![dlarf_1.webp](/img/user/Content/Images/dlarf_1.webp)
 
 ###  ![:manab:](https://cdn.discordapp.com/emojis/1044628208349351986.webp?size=44) Threats
 
