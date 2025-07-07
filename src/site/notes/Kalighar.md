@@ -3,6 +3,10 @@
 ---
 
 
+# Kalighar
+
+![The_Fertile_Lands_of_Saulvinia_March_of_the_Machine 1.webp](/img/user/Content/Images/The_Fertile_Lands_of_Saulvinia_March_of_the_Machine%201.webp)
+
 Welcome to the Kalighar notespace. Please click the links below to navigate.
 
 ## History
@@ -11,7 +15,7 @@ Welcome to the Kalighar notespace. Please click the links below to navigate.
 [[History/3. The New Age\|3. The New Age]]
 
 ## Labrys
-[[Labrys/1. Labrys Overview\|1. Labrys Overview]]
+[[Labrys/Labrys Overview\|Labrys Overview]]
 
 ### Districts
 [[Labrys/Districts/Avery Lane\|Avery Lane]] 
