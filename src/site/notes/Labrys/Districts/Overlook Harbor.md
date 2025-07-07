@@ -29,6 +29,4 @@ Out of all the major factions in Labrys, the Dreamscapers like PAЯADOX the most
 
 ![l-pinto_2 1.webp](/img/user/Content/Images/l-pinto_2%201.webp)![clarasinem_2 1.webp](/img/user/Content/Images/clarasinem_2%201.webp)![GVanaka_1.webp](/img/user/Content/Images/GVanaka_1.webp)![Vivian_Banshee_Zenless_Zone_Zero.webp](/img/user/Content/Images/Vivian_Banshee_Zenless_Zone_Zero.webp)
 
-![[OVERLOOKED.mp3]]
-
 <iframe width="500" height="281" src="https://www.youtube.com/embed/eP9NZFD86b4" title="Character Teaser - &quot;Yumemizuki Mizuki: Dining on a Dish of Dreams&quot; | Genshin Impact #GenshinImpact" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

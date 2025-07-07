@@ -23,7 +23,5 @@ Although House Domino likes the spotlight, it has learned the value of working i
 
 ![Streets_of_New_Meridian_Skullgirls.webp](/img/user/Content/Images/Streets_of_New_Meridian_Skullgirls.webp)![River_King_Casino_Skullgirls.webp](/img/user/Content/Images/River_King_Casino_Skullgirls.webp)![nicxx_1.webp](/img/user/Content/Images/nicxx_1.webp)![scribblecat_4.webp](/img/user/Content/Images/scribblecat_4.webp)
 
-![[ALL IN.mp3]]
-
 <iframe width="500" height="281" src="https://www.youtube.com/embed/kKj16KPl0jg" title="Aventurine Trailer — &quot;The Golden Touch&quot; | Honkai: Star Rail" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <iframe width="500" height="281" src="https://www.youtube.com/embed/PSjczeQfOZs" title="Jade Trailer — &quot;A Collection of Desires&quot; | Honkai: Star Rail" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
