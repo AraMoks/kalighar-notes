@@ -3,7 +3,7 @@
 ---
 
 
-# ![:managw:](https://cdn.discordapp.com/emojis/1044623353694126110.webp?size=44)
+# ![:managw:|44x44](https://cdn.discordapp.com/emojis/1044623353694126110.webp?size=44)
 
 "To survive is enough," was one of the mottos of the wars. Those who indulged in it always came in first, while the rest had to weather the slaughter. So, when the wars were over and people laid the first brick foundations of Labrys, a new motto was born—"To survive is not enough, we must now learn how to live." Life became the ultimate impetus, the reason for being. Let it breathe over this dead world and turn its wheel of fate. Let it paint a thousand shades over the land so that it knows colors other than red.
 
