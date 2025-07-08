@@ -3,7 +3,7 @@
 ---
 
 
-# ![:manabg:](https://cdn.discordapp.com/emojis/1044623334387761254.webp?size=44)
+![:manabg:|50x50](https://cdn.discordapp.com/emojis/1044623334387761254.webp?size=44)
 
 Most survivors who come to Labrys only ever think of its surface—the city that welcomes all who make it through the Outlands, who survived the Age of Wars with their sanity intact. Those people often go to the residential districts to build a new home for themselves. Yes, a home, with all the commodities Labrys has to offer—æther to fuel the machines, electricity to keep the lights on, and the best thing of all, plumbing. But how does it all work? Well, if you take a moment to see what lies underneath Labrys, you might find something truly fascinating. Imagine this—a thousand footsteps walking downstairs to a place unknown to the sun. A labyrinth of twisting tunnels welcomes all to the final resting place of the broken and discarded. Æther pumps through the pipes as electricity courses through the old machinery. Blessed be the blood of the artifice that keeps the city alight, and the artificers who keep it running.
 
