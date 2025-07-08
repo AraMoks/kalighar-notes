@@ -3,7 +3,7 @@
 ---
 
 
-![Rekxis_Matmanki.webp|376x493](/img/user/Rekxis_Matmanki.webp)
+![Rekxis_Matmanki.webp|376x493](/img/user/Content/Images/Rekxis_Matmanki.webp)
 
 ## Basic Information
 **Race**: Lizardfolk (Viashino) 
@@ -21,7 +21,7 @@ Unlike the others, Rekxis dove even deeper into his love of music as a refuge ag
 
 Remembering how excited he and the other kids at the orphanage got when they heard about the exploits of the big names and newcomers to the tournament scene, and how that sparked everyone's imaginations time and time again, Rekxis finally had an idea for how he might proceed. Really, the Elysian Grounds are just the biggest stage on Kalighar when you think about it, and Reks had plans to put on a show worthy of that kind of venue. If you can't beat 'em, join 'em, right? If by some miracle he actually did make it to the Grounds and he somehow did win the finals, though, there was the issue of needing a wish. That part was easy, since he'd always wanted to make it so that no kid would ever again have to grow up like he did, but that was a bit frustratingly open-ended for his tastes. Eh, fuck it, you gotta improv for even the best plans, and besides needing a team seems a bit more urgent.
 
-![rekxis_bbq.webp|700x598](/img/user/rekxis_bbq.webp)
+![rekxis_bbq.webp|700x598](/img/user/Content/Images/rekxis_bbq.webp)
 
 ## Spell List
 
