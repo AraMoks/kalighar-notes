@@ -9,7 +9,7 @@
 **Level**: 3
 **Age**: 22
 **Height**: 5'4" (162.5cm)
-**Mana Alignment**: <img src="https://static.wikia.nocookie.net/mtgsalvation_gamepedia/images/0/09/UR.svg/revision/latest?cb=20160125114942" alt="My SVG" width="24" height="24">
+**Mana Alignment**: Blue-Red
 
 
 ## **Backstory**:
