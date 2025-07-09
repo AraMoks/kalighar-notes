@@ -43,7 +43,7 @@ Media is the last of the three giants of entertainment in Labrys. VTs, an artifa
 
 ###  ![:manag:](https://cdn.discordapp.com/emojis/1044628260442615828.webp?size=44) Cuisine
 
-Kalighat cuisine is peculiar, or so I've heard. In the Age of Ruin, resources became scarce, so we had to make do with replacements. Each warband had a ranger who'd hunt monsters for their parts. The parts we didn't use to craft were turned into food. For example, in a classic dish of goat curry, we'd use barometz to replace the goat since those had almost gone extinct. Beatrice Cavaliere, the leader of _Beatrice's Inferno_ on Kings' Row, is a consummate monster hunter and chef. Her faction has existed for about a decade, but it has already become a mainstay in their district.
+Kalighar cuisine is peculiar, or so I've heard. In the Age of Ruin, resources became scarce, so we had to make do with replacements. Each warband had a ranger who'd hunt monsters for their parts. The parts we didn't use to craft were turned into food. For example, in a classic dish of goat curry, we'd use barometz to replace the goat since those had almost gone extinct. Beatrice Cavaliere, the leader of _Beatrice's Inferno_ on Kings' Row, is a consummate monster hunter and chef. Her faction has existed for about a decade, but it has already become a mainstay in their district.
 
 ![clarasinem_2 1.webp|450x276](/img/user/Content/Images/clarasinem_2%201.webp) ![Adrenaline_Jockey_Aetherdrift.webp|450x325](/img/user/Content/Images/Adrenaline_Jockey_Aetherdrift.webp) 
  ![Poissonnierede_Nouvelles_Yu-Gi-Oh.webp|285x364](/img/user/Content/Images/Poissonnierede_Nouvelles_Yu-Gi-Oh.webp)  ![Patissciel_Couverture_Yu-Gi-Oh.webp|288x368](/img/user/Content/Images/Patissciel_Couverture_Yu-Gi-Oh.webp)
