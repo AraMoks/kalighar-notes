@@ -11,8 +11,8 @@
 **Level**: 3
 **Age**: what are you, a cop? (late teens to early 20s, he's not entirely sure) 
 **Height**: 6’5” (154.9 cm)
-**Mana Alignment**: Red-Green
-
+**Mana Alignment**: <img src="https://github.com/AraMoks/kalighar-notes/blob/main/src/site/img/user/Content/Images/mana-rg.png?raw=true" alt="Mana-RG" style="width: 24px; height: auto;">
+![mana-rg.png](/img/user/Content/Images/mana-rg.png)
 ## **Backstory**:
 
 Rekxis grew up in one of the major metropolitan areas of Kalighar, and his earliest memories are of the orphanage he lived in as a kid. Survival was more of a priority than education in his early years, and for a time Reks didn't really know what he really even _could_ do with his life. That all changed when he and some of his friends acquired a music record through means that are less important than the contents of the record. When the youngsters finally found the means to actually play the music on the record, they were introduced to the single greatest artform in Kalighar, or maybe even Vylward as a whole. Reks and his friends had discovered rock music, and he fucking loved it, even more than the others. 
