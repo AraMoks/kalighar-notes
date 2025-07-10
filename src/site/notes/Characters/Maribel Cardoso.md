@@ -10,8 +10,8 @@
 **Level**: 3
 **Age**: 22
 **Height**: ~ 5’1” (154.9 cm)
-**Mana Alignment**: Blue-Black
-
+**Mana Alignment**: <img src="https://github.com/AraMoks/kalighar-notes/blob/main/src/site/img/user/Content/Images/mana-ub.png?raw=true" alt="Mana-UB" style="width: 24px; height: auto;">
+![mana-ub.png](/img/user/Content/Images/mana-ub.png)
 ## **Backstory**:
 
 Maribel grew up in Santa Lucina, born to Eugenia Cardoso and in Vanessa’s shadow, quite literally. Maribel followed her older sister everywhere and Vanessa was extremely protective of her little sister. Eugenia worked as an assistant to the cheapest jeweler in town and was judgemental, overprotective, and strict with her daughters, but she had a soft spot for Maribel. Vanessa often got the brunt of Eugenia’s aggression, typically without Maribel’s awareness. Vanessa also gained the reputation of “wild child”, but this was advantageous to Maribel, as she was typically left alone to her studies as a result. 
