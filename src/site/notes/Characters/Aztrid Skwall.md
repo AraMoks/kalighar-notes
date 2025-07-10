@@ -22,7 +22,9 @@ Her desire to compete were not a secret, and the fights that would play on the v
 
 Her father is contained within the dungeon, and Aztrid wants to win the fights now for more than just her own glory, but to keep her father and those like him safe.
 
+<div style="text-align: center;">
 <img src="https://github.com/AraMoks/kalighar-notes/blob/main/src/site/img/user/2Q.png?raw=true" alt="Aztrid Skwall" style="width: 500px; height: auto;">
+</div>
 
 ## Spell List
 
