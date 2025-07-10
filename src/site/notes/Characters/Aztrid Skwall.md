@@ -2,14 +2,14 @@
 {"dg-publish":true,"permalink":"/characters/aztrid-skwall/"}
 ---
 
-
+![the_eyyyees.png](/img/user/the_eyyyees.png)
 ## Basic Information
 **Species**: Cephalid
 **Class**: Bard College of Creation
 **Level**: 3
 **Age**: 22
 **Height**: 5'4" (162.5cm)
-**Mana Alignment**: <img src="https://github.com/AraMoks/kalighar-notes/blob/main/src/site/img/user/Content/Images/mana-ur.png" alt="Izzet" width="24" height="24">
+**Mana Alignment**: <img src="https://github.com/AraMoks/kalighar-notes/blob/main/src/site/img/user/Content/Images/mana-ur.png" alt="Izzet" width="24" height="24">![mana-ur.png](/img/user/Content/Images/mana-ur.png)
 
 
 ## **Backstory**:
@@ -22,6 +22,7 @@ Her desire to compete were not a secret, and the fights that would play on the v
 
 Her father is contained within the dungeon, and Aztrid wants to win the fights now for more than just her own glory, but to keep her father and those like him safe.
 
+![2Q.png](/img/user/2Q.png)
 ## Spell List
 
 ### Frenzy Spells
