@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/characters/aztrid-skwall/"}
 ---
 
-<img src="https://github.com/AraMoks/kalighar-notes/blob/main/src/site/img/user/the_eyyyees.png?raw=true" alt="Aztrid Eyes" style="width: 250px; height: auto;">
+<img src="https://github.com/AraMoks/kalighar-notes/blob/main/src/site/img/user/Content/Images/the_eyyyees.png?raw=true" alt="Aztrid Eyes" style="width: 250px; height: auto;">
 
 ## Basic Information
 **Species**: Cephalid
@@ -23,7 +23,7 @@ Her desire to compete were not a secret, and the fights that would play on the v
 Her father is contained within the dungeon, and Aztrid wants to win the fights now for more than just her own glory, but to keep her father and those like him safe.
 
 <div style="text-align: center;">
-<img src="https://github.com/AraMoks/kalighar-notes/blob/main/src/site/img/user/2Q.png?raw=true" alt="Aztrid Skwall" style="width: 500px; height: auto;">
+<img src="https://github.com/AraMoks/kalighar-notes/blob/main/src/site/img/user/Content/Images/2Q.png?raw=true" alt="Aztrid Skwall" style="width: 500px; height: auto;">
 </div>
 
 ## Spell List
