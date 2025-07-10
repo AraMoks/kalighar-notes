@@ -3,7 +3,7 @@
 ---
 
 
-![Rekxis_Matmanki.webp|376x493](/img/user/Content/Images/Rekxis_Matmanki.webp)
+<img src="https://github.com/AraMoks/kalighar-notes/raw/refs/heads/main/src/site/img/user/Content/Images/Rekxis_Matmanki.webp" alt="Rekxis Matmanki" style="width: 250px; height: auto;">
 
 ## Basic Information
 **Species**: Lizardfolk (Viashino) 
@@ -12,7 +12,7 @@
 **Age**: what are you, a cop? (late teens to early 20s, he's not entirely sure) 
 **Height**: 6’5” (154.9 cm)
 **Mana Alignment**: <img src="https://github.com/AraMoks/kalighar-notes/blob/main/src/site/img/user/Content/Images/mana-rg.png?raw=true" alt="Mana-RG" style="width: 24px; height: auto;">
-![mana-rg.png](/img/user/Content/Images/mana-rg.png)
+
 ## **Backstory**:
 
 Rekxis grew up in one of the major metropolitan areas of Kalighar, and his earliest memories are of the orphanage he lived in as a kid. Survival was more of a priority than education in his early years, and for a time Reks didn't really know what he really even _could_ do with his life. That all changed when he and some of his friends acquired a music record through means that are less important than the contents of the record. When the youngsters finally found the means to actually play the music on the record, they were introduced to the single greatest artform in Kalighar, or maybe even Vylward as a whole. Reks and his friends had discovered rock music, and he fucking loved it, even more than the others. 
@@ -21,11 +21,15 @@ For a time, the group of young punks tried to get a band off the ground because 
 
 Unlike the others, Rekxis dove even deeper into his love of music as a refuge against the anger he was starting to feel more and more about how life was ordered. It was kinda fucked to be told all your life that the best way out of poverty was to be part of a bloodsport on live TV for everyone's entertainment, wasn't it? Also kinda fucked that kids like him were basically thrown out to the streets just because they didn't have a normal family, wasn't it? One night, Reks decided he was gonna do something about it and try to wake folks up to how shit actually is, and he had the perfect tool in mind for it. That same night, he stole a guitar he'd been eyeing for ages from one of the cool shops he and his friends had never been allowed into, and he set about trying to figure out how exactly he was gonna see this idea through. 
 
-![rekxis_bbq.webp|432x369](/img/user/Content/Images/rekxis_bbq.webp)
+<div style="text-align: center;">
+<img src="https://github.com/AraMoks/kalighar-notes/raw/refs/heads/main/src/site/img/user/Content/Images/rekxis_bbq.webp" alt="Rekxis BBQ" style="width: 450px; height: auto;">
+</div>
 
 Remembering how excited he and the other kids at the orphanage got when they heard about the exploits of the big names and newcomers to the tournament scene, and how that sparked everyone's imaginations time and time again, Rekxis finally had an idea for how he might proceed. Really, the Elysian Grounds are just the biggest stage on Kalighar when you think about it, and Reks had plans to put on a show worthy of that kind of venue. If you can't beat 'em, join 'em, right? If by some miracle he actually did make it to the Grounds and he somehow did win the finals, though, there was the issue of needing a wish. That part was easy, since he'd always wanted to make it so that no kid would ever again have to grow up like he did, but that was a bit frustratingly open-ended for his tastes. Eh, fuck it, you gotta improv for even the best plans, and besides needing a team seems a bit more urgent.
 
-![rekxis_v2.webp|415x368](/img/user/Content/Images/rekxis_v2.webp)
+<div style="text-align: center;">
+<img src="https://github.com/AraMoks/kalighar-notes/raw/refs/heads/main/src/site/img/user/Content/Images/rekxis_v2.webp" alt="Rekxis V2" style="width: 450px; height: auto;">
+</div>
 
 ## Spell List
 
