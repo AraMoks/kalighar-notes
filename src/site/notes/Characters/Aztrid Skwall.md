@@ -9,9 +9,7 @@
 **Level**: 3
 **Age**: 22
 **Height**: 5'4" (162.5cm)
-**Mana Alignment**: <img src="/assets/mana-ur.png" alt="Izzet" width="24">
-
-
+**Mana Alignment**: <img src="https://github.com/AraMoks/kalighar-notes/blob/main/src/site/img/user/Content/Images/mana-ur.png?raw=true" alt="Mana-Ur" style="width: 24px; height: auto;">
 ## **Backstory**:
 
 Aztrid “Skid” Skwall grew up in the Tartarus Quarter of Saturday Island under the care of a reformed convict human, Barrith Skwall, who was her legal guardian. Astrid has lived and worked in her father's VT repair shop for most of her life. Her fascination with how these devices run has led to her becoming a tinkerer in her own right, finding that she can use the stored arcane magical energies to create solid objects. 
