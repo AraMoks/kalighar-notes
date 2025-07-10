@@ -9,7 +9,7 @@
 **Level**: 3
 **Age**: 22
 **Height**: 5'4" (162.5cm)
-**Mana Alignment**: Blue-Red
+**Mana Alignment**: <img src="https://github.com/AraMoks/kalighar-notes/blob/main/src/site/img/user/Content/Images/mana-ur.png" alt="Izzet" width="24" height="24">
 
 
 ## **Backstory**:
